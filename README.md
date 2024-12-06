@@ -1,5 +1,5 @@
 - 👋 Hi there, I’m Nuela Ada
-- 👀 Tech | Open Source | Web | Data
+- 👀 Tech | Open Source | Web | Data 
 - 💞️ Welcome to my GitHub! I'm passionate about mentoring, collaborating on innovative projects.
 - 📫 How to reach me nuela49@gmail.com
 <!---
