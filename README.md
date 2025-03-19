@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Nuela Ada
+- 👋 Hi there, I’m Nuela Adanna Ononiwu
 - 👀 Tech | Digital Platforms | Open Source | Web | Data 
 - 💞️ Welcome to my GitHub! I'm passionate about mentoring, collaborating on innovative projects.
 - 📫 How to reach me nuela49@gmail.com
